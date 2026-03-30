@@ -6,6 +6,7 @@ import { fileURLToPath } from "url";
 
 
 export default defineConfig({
+  base: "/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
@@ -15,6 +16,5 @@ export default defineConfig({
       '#hoc': resolve(dirname(fileURLToPath(import.meta.url)), 'src/hoc'),
       '#windows': resolve(dirname(fileURLToPath(import.meta.url)), 'src/windows'),
     }
-  },
-  base: "/ndalbah.github.io"
+  }
 })
