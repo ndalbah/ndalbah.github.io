@@ -75,8 +75,8 @@ const projectPosts = [
     },
     {
         id: 2,
-        date: "January 2026 - Present",
-        title: "KakuroHero - Kakuro Puzzle Game (ongoing)",
+        date: "January - April 2026",
+        title: "KakuroHero - Kakuro Puzzle Game",
         stack: "Kotlin / Android",
         description: "A native Android implementation of Kakuro, the cross-sum number puzzle. Built in Kotlin with a clean, intuitive interface that scales across difficulty levels and keeps the focus where it belongs: on the puzzle.",
         image: "/images/kotlin.svg",
