@@ -3,7 +3,7 @@ import { useState, useEffect, useRef, useCallback, forwardRef, useImperativeHand
 const TOUR_STEPS = [
     {
         id: 0,
-        message: "Hey there! I'm Cursor 👋\nWelcome to Noah's portfolio!",
+        message: "Hey there! I'm Cursor 👋\nWelcome to Nada's portfolio!",
         subtext: "Let me show you around.",
         x: 93, y: 82,
         bubbleDir: "bottom",
@@ -17,7 +17,7 @@ const TOUR_STEPS = [
     },
     {
         id: 2,
-        message: "📁 Open the Portfolio app\nto learn more about Noah.",
+        message: "📁 Open the Portfolio app\nto learn more about Nada.",
         subtext: "It works just like macOS Finder!",
         targetId: "finder",
         bubbleDir: "bottom",
@@ -25,7 +25,7 @@ const TOUR_STEPS = [
     },
     {
         id: 3,
-        message: "💼 View the Skills app\nto see Noah's full tech stack.",
+        message: "💼 View the Skills app\nto see Nada's full tech stack.",
         subtext: "Everything from styling to databases and dev tools.",
         targetId: "terminal",
         bubbleDir: "bottom",
