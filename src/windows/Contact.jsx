@@ -93,7 +93,7 @@ const Contact = () => {
                 <div className="flex items-center gap-4">
                     <img
                         src="/images/me.jpeg"
-                        alt="Noah"
+                        alt="Nada"
                         className="w-16 h-16 rounded-full object-cover flex-none"
                     />
                     <div>
@@ -170,7 +170,7 @@ const Contact = () => {
                             onChange={handleChange}
                             onBlur={handleBlur}
                             rows={4}
-                            placeholder="Hey Noah, I'd love to..."
+                            placeholder="Hey Nada, I'd love to..."
                             className={`${inputBase} resize-none ${errors.message ? inputError : inputNormal}`}
                         />
                         {errors.message && (
