@@ -254,7 +254,7 @@ const ABOUT_LOCATION = {
             position: "top-10 left-5",
             subtitle: "Meet the Developer Behind the Code",
             description: [
-                "Hey! I’m Noah 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
+                "Hey! I’m Nada 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
                 "I specialize in C#, .NET, and Java, and I love making things feel smooth, fast, and just a little bit delightful.",
                 "I’m big on clean UI, good UX, and writing easily readable and scalable code.",
                 "I am highly motivated by the problem-solving aspect of programming: breaking down complex challenges, and turning ideas into working solutions.",
