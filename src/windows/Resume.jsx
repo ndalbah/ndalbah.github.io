@@ -72,7 +72,7 @@ const Resume = () => {
                         <ZoomIn size={15}/>
                     </button>
 
-                    <a href="files/Noah_Dalbah_CV.pdf" download className="cursor-pointer" title="Download resume">
+                    <a href="files/Nada_Dalbah_CV.pdf" download className="cursor-pointer" title="Download resume">
                         <Download className="icon"/>
                     </a>
                 </div>
@@ -84,7 +84,7 @@ const Resume = () => {
                     className="overflow-auto flex justify-center"
                     style={{ maxHeight: isMaximized ? "calc(100vh - 48px)" : "80vh" }}
                 >
-                    <Document file="files/Noah_Dalbah_CV.pdf">
+                    <Document file="files/Nada_Dalbah_CV.pdf">
                         <Page
                             pageNumber={1}
                             width={pageWidth}
