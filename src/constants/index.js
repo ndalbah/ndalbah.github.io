@@ -66,7 +66,7 @@ const dockApps = [
 const projectPosts = [
     {
         id: 1,
-        date: "January 2026 - Present",
+        date: "January 2026 - May 2026",
         title: "TomeMate - D&D Companion App (ongoing)",
         stack: "Swift / Python / Firebase",
         description: "Full-stack iOS app that centralizes everything a D&D player needs mid-session: searchable spells, items, and creature databases, character management, homebrew content, quest tracking, and an interactive campaign map. SwiftUI frontend, FastAPI and Firebase backend.",
